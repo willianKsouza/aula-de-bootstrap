@@ -1,0 +1,38 @@
+img{
+    width:100%
+}
+.logo{
+    margin-left:300px;
+}
+.menu {
+      font-family: 'Balsamiq Sans', cursive;
+}
+
+.quem-somos {
+    background-color:#00c6d7
+}
+.quem-somos img{
+    width:400px;
+    height:400px;
+}
+.margin{
+    padding-top:50px;
+    padding-bottom:50px
+}
+.novidades{
+    background-color:#f4f4f4
+}
+.novidades div img{
+    margin:10px
+}
+
+.servicos div img{
+    margin:10px
+}
+.bg-footer{
+    background-color:#f4f4f4 
+}
+.fonte{
+    font-size: 1.75rem;
+    font-family: 'Balsamiq Sans', cursive;
+}
